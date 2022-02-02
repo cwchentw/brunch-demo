@@ -16,10 +16,6 @@ This tiny project demos how to use [Brunch](http://brunch.io) to compile front-e
     * Place static files you want to be copied from `app/assets/` to `public/`.
     * [Brunch site](http://brunch.io), [Getting started guide](https://github.com/brunch/brunch-guide#readme)
 
-## Author
-
-2018, Michael Chen
-
 ## Copyright
 
-Apache 2.0
+Copyright (c) 2018 Michelle Chen. Licensed under Apache 2.0
